@@ -1,4 +1,6 @@
 # Dino Game AI
+![Video Project 1](https://github.com/user-attachments/assets/7ae95014-4655-4187-a0a0-42f15272954f)
+
 
 This project demonstrates how to create an AI agent to play the Chrome Dino game using OpenAI's Gym environment and Stable-Baselines3. The AI model is trained using Deep Q-Learning (DQN) with the goal of maximizing the score by jumping over obstacles.
 
